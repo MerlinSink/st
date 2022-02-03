@@ -1,0 +1,3 @@
+#st
+---
+my st config
